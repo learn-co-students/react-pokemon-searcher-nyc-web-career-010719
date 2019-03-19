@@ -7326,20 +7326,6 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
       }
-    },
-    {
-      "name": "Squidward",
-      "stats": [
-        {
-          "value": "70",
-          "name": "hp"
-        }
-      ],
-      "sprites": {
-        "front": "https://media.giphy.com/media/mhh4VA7LKYL9S/giphy.gif",
-        "back": "https://media.giphy.com/media/mhh4VA7LKYL9S/giphy.gif"
-      },
-      "id": 207
     }
   ]
 }
